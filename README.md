@@ -6,7 +6,8 @@ This project explores employee attrition, salary trends, and workforce dynamics 
 
 ## 📊 Dashboard Overview
 
-![Dashboard Preview](visuals/dashboard.png)
+![Dashboard Preview](dashboard.png)
+
 
 
 ---
