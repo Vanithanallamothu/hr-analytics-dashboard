@@ -1,0 +1,68 @@
+# 📊 Insights Summary: HR Analytics Dashboard
+
+This summary captures key business insights derived from SQL analysis and Tableau dashboards built using an HR dataset of 1,470 employees.
+
+---
+
+## 1. 🧮 Overall Headcount
+- **Total Employees**: 1,470
+- **Attrition Count**: 237 (approx. 16.1%)
+
+---
+
+## 2. 🏢 Departmental Trends
+- **Highest Attrition**: Research & Development (133) and Sales (92)
+- **Lowest Attrition**: Human Resources (12)
+
+---
+
+## 3. 👨‍💼 Gender Distribution
+- Balanced gender mix across departments.
+- Gender alone didn’t show strong attrition correlation in this dataset.
+
+---
+
+## 4. 🧠 Education & Income
+- **Top Earners by Education Field**:
+  - Marketing: ₹7,349
+  - Human Resources: ₹7,241
+- Technical Degree holders earned the least (~₹5,758/month)
+
+---
+
+## 5. 💼 Job Role & Retention
+- **Managers**: Average tenure ~14.4 years
+- **Sales Representatives**: Lowest retention (~2.9 years)
+
+---
+
+## 6. ⏳ Overtime Impact
+- Employees who worked **overtime** had significantly higher attrition rates (127 vs 110)
+
+---
+
+## 7. 💸 Income vs Experience
+- Employees with experience in **3–4 companies** earned the most (~₹8,271/month)
+- Income declines as the number of companies increases beyond 4
+
+---
+
+## 8. 📈 Salary Growth & Performance
+- High performers (rating ≥ 4) do **not always** receive high salary hikes
+- Some low performers had higher percent hikes (possible policy or tenure-based hikes)
+
+---
+
+## 9. 📊 Promotion Gaps
+- Many employees have not been promoted in 3+ years (low promotion mobility)
+
+---
+
+## 10. 👥 Manager Tenure
+- 60+ employees have worked with the same manager for over 10 years
+
+---
+
+**Conclusion**:  
+This analysis suggests that retention is heavily impacted by workload (overtime), lack of promotion, and job role. Targeted interventions in Sales and R&D, fair performance rewards, and improved work-life balance may reduce attrition and increase employee satisfaction.
+
